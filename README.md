@@ -12,5 +12,5 @@ All you need to do is
 Bugs
 ====
 
-[ ] The bookmarklet makes the browser ask to leave the site
-[ ] If a category is selected, an inserted block is not instantly visible there
+- [ ] The bookmarklet makes the browser ask to leave the site
+- [ ] If a category is selected, an inserted block is not instantly visible there
